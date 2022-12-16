@@ -30,7 +30,7 @@ Este proyecto consiste en la creación de un Web Scraper, que es un programa que
  <li> Abrir el archivo .py en alguna terminal como spyder, o abrir el archivo .ipynb en JupyterLab
  <li> Cambiar la ubicación del chrome driver, según donde la hayas descargado
  <li> Si gustas cambiar los productos que buscará el Web Scraper, encontrarás algunas variables llamadas "Producto1, "Producto2", y así hasta el "Producto5"
- <li> Listo, ahora sólo queda correr las líneas restantes del código, y este se encargará de crear:
+ <li> Listo, ahora sólo queda correr las líneas restantes del código, y este se encargará de crear: 
  <ol> <li>Tres archivos .csv (uno por cada sitio web) que rellenará con la información correspondiente de los 5 productos buscados.
  <li> Un archivo .csv donde recolectará toda la información de los 3 sitios web
  <li> Cinco gráficas(una por cada producto) donde se compara el precio promedio del producto en los 3 sitios web
