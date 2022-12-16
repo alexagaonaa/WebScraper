@@ -1,7 +1,7 @@
 <h1 align="center"> :lipstick: Proyecto final: Web Scraper de maquillaje </h1>
 <b> <blockquote> Integrantes del equipo: </b> <br>
--Gaona Amaya Silvia Alexa <br>
--León Morales Guadalupe </blockquote>
+<li>Gaona Amaya Silvia Alexa - https://github.com/alexagaonaa <br>
+<li>León Morales Guadalupe - https://github.com/guadalupe30 </blockquote>
 
 <h2 align="center"> :pencil2: Descripción del proyecto </h2>
 Este proyecto consiste en la creación de un Web Scraper, que es un programa que tiene como finalidad extraer información de sitios web. En este caso en específico, nuestro proyecto tiene como finalidad extraer ciertos datos de sitios de maquillaje para poder hacer una comparación de tipo gráfica, y facilitar la lectura al usuario.
